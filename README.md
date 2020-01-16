@@ -14,4 +14,9 @@ $ sudo ./install-amdgpu-pro-*.sh
 ```
 
 ### Note 
+
 If AMD update `amdgpu-pro` driver, you need to modify the version field in that script.
+
+### Acknowledgement
+
+Made by Andrew Shark, The author of LinuxComp Tutorial Youtube channel
