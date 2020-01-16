@@ -10,7 +10,7 @@
 $ git clone https://github.com/nyanmisaka/install-amdgpu-pro.git
 $ sudo chmod +x install-amdgpu-pro-*.sh
 # copy the script to your amdgpu-pro installation package folder and enter it
-$ sudo ./install-amdgpu-pro.sh
+$ sudo ./install-amdgpu-pro-*.sh
 ```
 
 ### Note 
